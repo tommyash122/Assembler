@@ -9,7 +9,7 @@
 
 This two pass assembler was written for an [imaginary computer](#computer-and-language-structure) as a final project of the course *[20465 - Systems Programming in C](https://openu.ac.il/courses/20465.htm)* (full assignment details [here](readme/assignment.pdf)).
 
-The project was written in collaboration with [@yuzev](https://github.com/yuzev).
+
 
 ## Usage
 
