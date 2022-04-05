@@ -33,7 +33,7 @@ The assembler will output *.am*,*.ent*, *.ext* and *.ob* files.
 
 - Data Structures
 
-    - `data_structures` - Represents a line read from input *.as* file .
+    - `data_structures` - Represents a line read from input *.am* file .
 
     - `tables_data_structures` - Linked list implementation. Used to represent Symbol Table, Image Code and Image Data of the assembler.
 
