@@ -1,7 +1,7 @@
 
 ## About
 
-This two runs assembler was written for an [imaginary computer](#computer-and-language-structure) as a final project of the course *[20465 - Systems Programming in C](https://openu.ac.il/courses/20465.htm)* 
+This two runs assembler was written for an [imaginary computer](#computer-and-language-structure) as a final project of the course *[20465 - Systems Programming in C](https://openu.ac.il/courses/20465.htm)*.
 GRADE : 100
 
 ## Usage
